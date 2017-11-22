@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PattyCooking.unity
+  isLoaded: 1
+  isActive: 1
